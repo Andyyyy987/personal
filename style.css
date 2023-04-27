@@ -1,0 +1,57 @@
+.index{
+    font-family: Impact, Haettenschweiler;
+    text-align: center;
+}
+
+#nav_bar {
+    background-color: chartreuse;
+    height: 150px;
+    display: flex;
+    /* justify-content: center; */
+    /* justify-content: flex-start; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#nav_bar a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: larger;
+
+}
+
+#nav_bar a:hover {
+    color:red;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+img {
+    width: 15%;
+}
+
+a{
+    color: rgb(170, 0, 255);
+
+/* Targetting the h1 header on the Home Page */
+}
+.index_header{
+    color: rgb(0, 94, 128);
+}
+
+.index_title{
+    color: rgb(0, 255, 208);
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
